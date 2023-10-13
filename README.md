@@ -21,3 +21,9 @@ Para instalar este Proyecto y Comenzar a usarlo, coloca el comando:
 
 Para correr el Proyecto utiliza el comando:
 "npm run dev"
+
+Visualiza el proyecto terminado en: https://guitarla-jab.netlify.app/
+
+Nota> El proyecto ha sifo debugeado manualmente, por lo que, los cambios que se agreguen a gitHub no se veran reflejados en Netlify, para actualizar la página se debe ejecutar el comando: 
+"npm run build" 
+y actualizar la carpeta "dist" en netlify
